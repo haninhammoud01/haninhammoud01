@@ -31,7 +31,7 @@ Undergraduate Student • Semester 5
 
 ### 📂 Featured Academic Work
 
-- [`23-005-tugas_individu-ppl`](https://github.com/haninhammoud01/23-005-tugas_individu-ppl) – Simple web-based student identity system with CI pipeline  
+- [`Tugas-Individu PPL-D`](https://github.com/haninhammoud01/Tugas-Individu_PPL-D) – Simple web-based student identity system with CI pipeline  
 - [`2025-2026_Gasal_PAW_C`](https://github.com/haninhammoud01/2025-2026_Gasal_PAW_C) – PHP-based web project forked from lab template (still under development)
 
 *(All projects include READMEs with challenges faced & lessons learned — because real learning isn’t just about the output.)*
