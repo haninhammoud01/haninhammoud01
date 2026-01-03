@@ -7,6 +7,12 @@ Undergraduate Student • Semester 5
 
 ---
 
+![Project Alive](https://img.shields.io/badge/Project-Alive-brightgreen)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2026-purple)
+![Code Ninja](https://img.shields.io/badge/Code-Ninja-orange)
+
+---
+
 ### 📚 Currently Juggling
 
 - 🧪 **Software Engineering Project** – designing a maintainable academic system  
