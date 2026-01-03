@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hanin
+# Hi, I'm Hanin
 
 Undergraduate Student • Semester 5  
 **Faculty of Informatics Engineering**, Universitas Trunojoyo Madura (UTM)
