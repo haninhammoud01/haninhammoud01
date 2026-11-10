@@ -20,10 +20,10 @@
 
 | project | what it does | stack |
 |---|---|---|
-| [`indonesian-wsd-lesk`](https://github.com/haninhammoud01/indonesian-wsd-lesk) | rule-based WSD for indonesian essays — 63.8% accuracy, statistically validated vs indoSBERT (McNemar p<0.001), fully reproducible + CI | python · pysastrawi · sentence-transformers · gh actions |
-| `news-publisher-bangkalan` 🔒 | ai automation that writes & publishes news to multiple blogger accounts — built for a real local media operation | js · blogger api · google oauth |
-| `humas-polres-bangkalan` 🔒 | laravel information system in production for a police public-relations office — real users, real deadlines | laravel · php · mariadb |
-| [`go-academic-service`](https://github.com/haninhammoud01/go-academic-service) | clean-architecture REST api — jwt + role-based access, dockerized | go · postgres · docker |
+| [`indonesian-wsd-lesk`](https://github.com/haninhammoud01/indonesian-wsd-lesk) | rule-based WSD for indonesian essays 63.8% accuracy, statistically validated vs indoSBERT (McNemar p<0.001), fully reproducible + CI | python · pysastrawi · sentence-transformers · gh actions |
+| `news-publisher-bangkalan` 🔒 | ai automation that writes & publishes news to multiple blogger accounts built for a real local media operation | js · blogger api · google oauth |
+| `humas-polres-bangkalan` 🔒 | laravel information system in production for a police public-relations office real users, real deadlines | laravel · php · mariadb |
+| [`go-academic-service`](https://github.com/haninhammoud01/go-academic-service) | clean-architecture REST api jwt + role-based access, dockerized | go · postgres · docker |
 | [`breast-cancer-risk-prediction`](https://github.com/haninhammoud01/breast-cancer-risk-prediction) | ml classification, shipped as an interactive streamlit app | python · scikit-learn · streamlit |
 | [`xgboost-hiv-study`](https://github.com/haninhammoud01/xgboost-hiv-study) | xgboost regression on real health data | python · xgboost · pandas |
 
