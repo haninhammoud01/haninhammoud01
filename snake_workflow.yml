@@ -1,0 +1,41 @@
+# ✦ SNAKE WORKFLOW (opsional tapi seru) ✦
+#
+# CARA PAKAI:
+# 1. Di repo haninhammoud01/haninhammoud01, buat file baru:
+#    .github/workflows/snake.yml  → paste isi file ini
+# 2. Tunggu workflow jalan (atau tab Actions → "generate snake" → Run workflow)
+# 3. Setelah sukses, repo punya branch baru bernama "output"
+# 4. Buka README.md → hapus tanda <!-- dan --> di blok SNAKE → commit
+# 5. Ular makan kontribusimu tampil di profil 🐍
+
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # jalan tiap tengah malam UTC
+  workflow_dispatch: # bisa di-run manual dari tab Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: haninhammoud01
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push snake ke branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
