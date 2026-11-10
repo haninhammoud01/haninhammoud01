@@ -5,15 +5,15 @@
 **final-year informatics engineering student** · universitas trunojoyo madura
 📍 bangkalan, indonesia · semester 7 · thesis mode
 
-> quietly building things, one commit at a time — now with p-values to back it up.
+> quietly building things, one commit at a time, now with p-values to back it up.
 
 ---
 
 ### 🔭 what i'm up to
 
-- 🧠 **thesis** — simplified Lesk word sense disambiguation for indonesian biology essays → [`indonesian-wsd-lesk`](https://github.com/haninhammoud01/indonesian-wsd-lesk)
-- 🤖 **ai automation for a local newsroom** — ai-powered publisher writing & pushing articles to multiple blogger accounts 🔒 private
-- 🏛️ **gov-tech on the side** — information system for polres bangkalan's public relations office 🔒 private
+- 🧠 **thesis**: simplified Lesk word sense disambiguation for indonesian biology essays → [`indonesian-wsd-lesk`](https://github.com/haninhammoud01/indonesian-wsd-lesk)
+- 🤖 **ai automation for a local newsroom**: ai-powered publisher writing & pushing articles to multiple blogger accounts 🔒 private
+- 🏛️ **gov-tech on the side**: information system for polres bangkalan's public relations office 🔒 private
 - 📚 going deeper in: go microservices · parallel computing (mpi) · ml deployment
 
 ### 🚀 flagships
@@ -49,21 +49,15 @@
 
 *learning next: hugging face transformers · go systems*
 
-### 📊 stats
-
-![](https://github-readme-stats.vercel.app/api?username=haninhammoud01&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haninhammoud01&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haninhammoud01&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ![snake eating my contributions](https://raw.githubusercontent.com/haninhammoud01/haninhammoud01/output/github-contribution-grid-snake.svg)
 
 
 ### 🤝 open to
 
-- ai/ml internships & entry roles — graduating soon, let's talk
+- ai/ml internships & entry roles, graduating soon, let's talk
 - research collabs in nlp (especially low-resource languages)
-- code reviews — i learn best by reading how others think
+- code reviews, i learn best by reading how others think
 - quiet pair programming. no small talk, just logic.
 
 ---
