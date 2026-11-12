@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=61DAFB&center=true&vCenter=true&width=520&lines=nlp+%26+ml+for+indonesian+text;rule-based+still+slaps+%28p%3D0.00008%29;shipping+for+real+users;quietly+building%2C+loudly+documenting)](https://github.com/haninhammoud01)
 
-**final-year informatics engineering student** · universitas trunojoyo madura
-📍 bangkalan, indonesia · semester 7 · thesis mode
+**final-year informatics engineering student**
 
 > quietly building things, one commit at a time, now with p-values to back it up.
 
@@ -53,14 +52,3 @@
 ![snake eating my contributions](https://raw.githubusercontent.com/haninhammoud01/haninhammoud01/output/github-contribution-grid-snake.svg)
 
 
-### 🤝 open to
-
-- ai/ml internships & entry roles, graduating soon, let's talk
-- research collabs in nlp (especially low-resource languages)
-- code reviews, i learn best by reading how others think
-- quiet pair programming. no small talk, just logic.
-
----
-
-![hacktoberfest 2026](https://img.shields.io/badge/hacktoberfest-2026-purple)
-[![](https://visitcount.itsvg.in/api?id=haninhammoud01&icon=2&color=10)](https://visitcount.itsvg.in)
