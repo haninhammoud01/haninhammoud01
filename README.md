@@ -28,13 +28,13 @@
 
 ### 🧪 more experiments
 
-**parallel & distributed** — [`ParallelLexCheck`](https://github.com/haninhammoud01/ParallelLexCheck) (mpi · bulk synchronous parallel) · [`belajar-mpi`](https://github.com/haninhammoud01/belajar-mpi) · [`Tugas-Individu_SisTer-A`](https://github.com/haninhammoud01/Tugas-Individu_SisTer-A) (bilingual lexical analysis)
+**parallel & distributed** [`ParallelLexCheck`](https://github.com/haninhammoud01/ParallelLexCheck) (mpi · bulk synchronous parallel) · [`belajar-mpi`](https://github.com/haninhammoud01/belajar-mpi) · [`Tugas-Individu_SisTer-A`](https://github.com/haninhammoud01/Tugas-Individu_SisTer-A) (bilingual lexical analysis)
 
-**desktop & backend** — [`LaundryDesk`](https://github.com/haninhammoud01/LaundryDesk) (pyqt6 + sqlite, crud app for a laundry business) · [`admin-lab-service`](https://github.com/haninhammoud01/admin-lab-service) (laravel microservice)
+**desktop & backend** [`LaundryDesk`](https://github.com/haninhammoud01/LaundryDesk) (pyqt6 + sqlite, crud app for a laundry business) · [`admin-lab-service`](https://github.com/haninhammoud01/admin-lab-service) (laravel microservice)
 
-**web & playful** — [`PortoLab`](https://github.com/haninhammoud01/PortoLab) (react + tailwind portfolio builder with pdf export) · [`echo-cards`](https://github.com/haninhammoud01/echo-cards) (web-audio music visualizer) · [`nocturne.alarm`](https://github.com/haninhammoud01/nocturne.alarm) (vanilla js) · [`birthday-surprise`](https://github.com/haninhammoud01/birthday-surprise) (mediapipe + confetti)
+**web & playful** [`PortoLab`](https://github.com/haninhammoud01/PortoLab) (react + tailwind portfolio builder with pdf export) · [`echo-cards`](https://github.com/haninhammoud01/echo-cards) (web-audio music visualizer) · [`nocturne.alarm`](https://github.com/haninhammoud01/nocturne.alarm) (vanilla js) · [`birthday-surprise`](https://github.com/haninhammoud01/birthday-surprise) (mediapipe + confetti)
 
-**ml & coursework** — [`student-performance-app`](https://github.com/haninhammoud01/student-performance-app) (streamlit deployment) · [`Alin`](https://github.com/haninhammoud01/Alin) (linear algebra notebooks · mit) · [`ppw`](https://github.com/haninhammoud01/ppw) (web mining coursework) · [`Tugas-Individu_PPL-D`](https://github.com/haninhammoud01/Tugas-Individu_PPL-D) (static web + ci pipeline) · [`2025-2026_Gasal_PAW_C`](https://github.com/haninhammoud01/2025-2026_Gasal_PAW_C) (php lab) · [`ProyekPPLGame`](https://github.com/Malikzert/ProyekPPLGame) (godot game · team project)
+**ml & coursework** [`student-performance-app`](https://github.com/haninhammoud01/student-performance-app) (streamlit deployment) · [`Alin`](https://github.com/haninhammoud01/Alin) (linear algebra notebooks · mit) · [`ppw`](https://github.com/haninhammoud01/ppw) (web mining coursework) · [`Tugas-Individu_PPL-D`](https://github.com/haninhammoud01/Tugas-Individu_PPL-D) (static web + ci pipeline) · [`2025-2026_Gasal_PAW_C`](https://github.com/haninhammoud01/2025-2026_Gasal_PAW_C) (php lab) · [`ProyekPPLGame`](https://github.com/Malikzert/ProyekPPLGame) (godot game · team project)
 
 🧮 by the numbers: **6** ml/data · **5** backend & desktop systems · **3** parallel computing · **5** frontend toys · **1** team game
 
