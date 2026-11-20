@@ -1,54 +1,98 @@
-## hi, i'm hanin ⋆｡°✩
+# hanin@github:~$ whoami
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=61DAFB&center=true&vCenter=true&width=520&lines=nlp+%26+ml+for+indonesian+text;rule-based+still+slaps+%28p%3D0.00008%29;shipping+for+real+users;quietly+building%2C+loudly+documenting)](https://github.com/haninhammoud01)
+```bash
+> informatics engineering student
+> Universitas Trunojoyo Madura, Indonesia
+> interested in AI, NLP & software systems
+```
 
-**final-year informatics engineering student**
+hi, i'm **hanin**.
 
-> quietly building things, one commit at a time, now with p-values to back it up.
+i like figuring out how things work, experimenting with ideas, and building things along the way.
+
+most of my time goes into exploring machine learning, natural language processing, backend development, and occasionally going down technical rabbit holes.
+
+```python
+interests = [
+    "artificial intelligence",
+    "natural language processing",
+    "machine learning",
+    "backend engineering",
+    "distributed systems",
+]
+
+current_mode = "learning by building"
+```
 
 ---
 
-### 🔭 what i'm up to
+### `$ ls ./toolbox`
 
-- 🧠 **thesis**: simplified Lesk word sense disambiguation for indonesian biology essays → [`indonesian-wsd-lesk`](https://github.com/haninhammoud01/indonesian-wsd-lesk)
-- 🤖 **ai automation for a local newsroom**: ai-powered publisher writing & pushing articles to multiple blogger accounts 🔒 private
-- 🏛️ **gov-tech on the side**: information system for polres bangkalan's public relations office 🔒 private
-- 📚 going deeper in: go microservices · parallel computing (mpi) · ml deployment
+**languages**
 
-### 🚀 flagships
+![Python](https://img.shields.io/badge/python-1E293B?style=flat-square&logo=python&logoColor=60A5FA)
+![Go](https://img.shields.io/badge/go-1E293B?style=flat-square&logo=go&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/javascript-1E293B?style=flat-square&logo=javascript&logoColor=FACC15)
+![PHP](https://img.shields.io/badge/php-1E293B?style=flat-square&logo=php&logoColor=A5B4FC)
+![Java](https://img.shields.io/badge/java-1E293B?style=flat-square&logo=openjdk&logoColor=FCA5A5)
 
-| project | what it does | stack |
-|---|---|---|
-| [`indonesian-wsd-lesk`](https://github.com/haninhammoud01/indonesian-wsd-lesk) | rule-based WSD for indonesian essays 63.8% accuracy, statistically validated vs indoSBERT (McNemar p<0.001), fully reproducible + CI | python · pysastrawi · sentence-transformers · gh actions |
-| `news-publisher-bangkalan` 🔒 | ai automation that writes & publishes news to multiple blogger accounts built for a real local media operation | js · blogger api · google oauth |
-| `humas-polres-bangkalan` 🔒 | laravel information system in production for a police public-relations office real users, real deadlines | laravel · php · mariadb |
-| [`go-academic-service`](https://github.com/haninhammoud01/go-academic-service) | clean-architecture REST api jwt + role-based access, dockerized | go · postgres · docker |
-| [`breast-cancer-risk-prediction`](https://github.com/haninhammoud01/breast-cancer-risk-prediction) | ml classification, shipped as an interactive streamlit app | python · scikit-learn · streamlit |
-| [`xgboost-hiv-study`](https://github.com/haninhammoud01/xgboost-hiv-study) | xgboost regression on real health data | python · xgboost · pandas |
+**ai & data**
 
-### 🧪 more experiments
+![PyTorch](https://img.shields.io/badge/pytorch-1E293B?style=flat-square&logo=pytorch&logoColor=FB923C)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=FCD34D)
+![Pandas](https://img.shields.io/badge/pandas-1E293B?style=flat-square&logo=pandas&logoColor=A5B4FC)
+![NumPy](https://img.shields.io/badge/numpy-1E293B?style=flat-square&logo=numpy&logoColor=60A5FA)
+![XGBoost](https://img.shields.io/badge/xgboost-1E293B?style=flat-square)
 
-**parallel & distributed** [`ParallelLexCheck`](https://github.com/haninhammoud01/ParallelLexCheck) (mpi · bulk synchronous parallel) · [`belajar-mpi`](https://github.com/haninhammoud01/belajar-mpi) · [`Tugas-Individu_SisTer-A`](https://github.com/haninhammoud01/Tugas-Individu_SisTer-A) (bilingual lexical analysis)
+**engineering & tools**
 
-**desktop & backend** [`LaundryDesk`](https://github.com/haninhammoud01/LaundryDesk) (pyqt6 + sqlite, crud app for a laundry business) · [`admin-lab-service`](https://github.com/haninhammoud01/admin-lab-service) (laravel microservice)
+![Go](https://img.shields.io/badge/gin-1E293B?style=flat-square)
+![Laravel](https://img.shields.io/badge/laravel-1E293B?style=flat-square&logo=laravel&logoColor=FB7185)
+![PostgreSQL](https://img.shields.io/badge/postgresql-1E293B?style=flat-square&logo=postgresql&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/docker-1E293B?style=flat-square&logo=docker&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/git-1E293B?style=flat-square&logo=git&logoColor=FCA5A5)
+![GitHub Actions](https://img.shields.io/badge/github_actions-1E293B?style=flat-square&logo=githubactions&logoColor=60A5FA)
 
-**web & playful** [`PortoLab`](https://github.com/haninhammoud01/PortoLab) (react + tailwind portfolio builder with pdf export) · [`echo-cards`](https://github.com/haninhammoud01/echo-cards) (web-audio music visualizer) · [`nocturne.alarm`](https://github.com/haninhammoud01/nocturne.alarm) (vanilla js) · [`birthday-surprise`](https://github.com/haninhammoud01/birthday-surprise) (mediapipe + confetti)
+---
 
-**ml & coursework** [`student-performance-app`](https://github.com/haninhammoud01/student-performance-app) (streamlit deployment) · [`Alin`](https://github.com/haninhammoud01/Alin) (linear algebra notebooks · mit) · [`ppw`](https://github.com/haninhammoud01/ppw) (web mining coursework) · [`Tugas-Individu_PPL-D`](https://github.com/haninhammoud01/Tugas-Individu_PPL-D) (static web + ci pipeline) · [`2025-2026_Gasal_PAW_C`](https://github.com/haninhammoud01/2025-2026_Gasal_PAW_C) (php lab) · [`ProyekPPLGame`](https://github.com/Malikzert/ProyekPPLGame) (godot game · team project)
+### `$ find ./repositories -type f`
 
-🧮 by the numbers: **6** ml/data · **5** backend & desktop systems · **3** parallel computing · **5** frontend toys · **1** team game
+a little bit of everything lives here.
 
-### 🧰 the toolbox
+research projects, coursework, side projects, experiments, and random ideas that somehow turned into code.
 
-![skills](https://skillicons.dev/icons?i=py,go,php,laravel,js,java,html,css,react,tailwind,bootstrap,jquery,nodejs,mysql,postgres,sqlite,docker,githubactions,git,github,jupyter,qt,godot,blender&perline=12)
+some projects solve actual problems. others started with a simple "what if?"
 
-**data & ml shelf:**
+feel free to explore.
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%23115599.svg?style=flat&logo=matplotlib&logoColor=white) ![XGBoost](https://img.shields.io/badge/xgboost-FF6600?style=flat) ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat) ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-109A6D?style=flat) ![PyQt6](https://img.shields.io/badge/pyqt6-41CD52?style=flat&logo=qt&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white)
+[view all repositories →](https://github.com/haninhammoud01?tab=repositories)
 
-*learning next: hugging face transformers · go systems*
+---
 
+### `$ cat currently_exploring.txt`
 
-![snake eating my contributions](https://raw.githubusercontent.com/haninhammoud01/haninhammoud01/output/github-contribution-grid-snake.svg)
+- modern NLP and language models
+- computer vision & geospatial data
+- distributed and parallel computing
+- backend architecture and system design
 
+---
 
+### `$ cat .about`
+
+```text
+location    : indonesia
+university  : universitas trunojoyo madura
+focus       : learning, building, experimenting
+philosophy  : understand first, optimize later
+status      : always compiling...
+```
+
+---
+
+```bash
+$ echo "keep curious."
+keep curious.
+```
+
+*less talking, more building.*
